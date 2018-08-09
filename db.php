@@ -1,0 +1,1 @@
+$pdo = new PDO ('mysql:host=localhost;dbname=colyseum','root','toor');
