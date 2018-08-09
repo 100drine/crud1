@@ -1,0 +1,10 @@
+{
+    "name": "root/crud1",
+    "authors": [
+        {
+            "name": "100drine",
+            "email": "julien100drine@sfr.fr"
+        }
+    ],
+    "require": {}
+}
